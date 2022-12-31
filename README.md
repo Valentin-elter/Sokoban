@@ -22,3 +22,6 @@ First year project, sokoban-like game in terminal who can use filetext to genera
 
 
 ## Screenshots
+
+![Alt text](screenshots/1.png?raw=true "1")
+![Alt text](screenshots/2.png?raw=true "2")
